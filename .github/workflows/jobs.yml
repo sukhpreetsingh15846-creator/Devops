@@ -1,4 +1,4 @@
-name: "jobs test"
+name: jobs test
 on: push
 jobs:
    validate-html:
