@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: hello github action
-        run: echo"hello this is first workflow"
+        run: echo "hello this is first workflow"
       - name: Bye github action
-        run: echo"Bye github actions"
+        run: echo "Bye github actions"
