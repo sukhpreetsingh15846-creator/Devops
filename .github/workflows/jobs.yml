@@ -19,7 +19,7 @@ jobs:
     
         - name: validate js file
           run: test -f index.js
-          name: "validate files"
+          
 
    validate-code:
       needs: ["validate-html", "validate-js"]
